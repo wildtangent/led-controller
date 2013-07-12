@@ -1,0 +1,17 @@
+GIT
+  remote: https://github.com/klappy/gpio.git
+  revision: a543928692dc87187df6b6735df1b3261c719218
+  specs:
+    gpio (0.0.7)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    eventmachine (1.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  eventmachine
+  gpio!
